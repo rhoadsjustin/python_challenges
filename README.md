@@ -1,3 +1,5 @@
+![General Assembly Logo](http://i.imgur.com/ke8USTq.png)
+
 # Learning Python
 
 You've learned Ruby, C, C++, JavaScript and SQL. Getting started with a totally new language doesn't have to be hard. The biggest key is to practice doing something that you *already know* in the context of the new language. This is called a *transfer task*. The more languages and computer science concepts you learn, the easier new ones become to pick up and its mostly syntax, quirks and language-specific tools that become the tricky part.
