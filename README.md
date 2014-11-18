@@ -35,23 +35,51 @@ Your first task is to research Python to be able to understand some of its basic
 
 ##### What paradigms does Python support?
 
+- object-oriented, imperative, functional, procedural. Support for functional programming is a bit weak and has been threatened with removal.
+
 ##### What typing discipline does it follow?
+
+- duck, dynamic, strong
 
 ##### Is it a high or low level language?
 
+- high
+
 ##### Does it have built in memory management and garbage collection?
+
+- yes
 
 ##### What languages was Python influenced by?
 
+- ABC
+- ALGOL 68
+- C
+- C++
+- Haskell
+- Java
+- Lisp
+- Modula-3
+- Perl
+
 ##### Is it a compiled or interpeted language?
+
+- Interpeted
 
 ##### Does it have strong support for functional programming?
 
+- Some support, but it prefers against it
+
 ##### What's the deal with Python 2 vs Python 3?
+
+- The 'upgrade' from Python 2 to 3 hasn't gone well. They aren't backwards compatible and the community is split, but Python 2.7 is the last version (in theory) of Python 2.
 
 ##### How do you open a REPL for Python?
 
+`python`
+
 ##### How does one execute a Python program?
+
+`python foo.py`
 
 
 ## Read: The Zen of Python
