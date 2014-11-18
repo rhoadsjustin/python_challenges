@@ -4,6 +4,8 @@ You've learned Ruby, C, C++, JavaScript and SQL. Getting started with a totally 
 
 Now, your task is to *teach yourself* a bit of Python. The goal here isn't to become a Python master, but to explore and learn a bit about a new language.
 
+**It is intentional that you aren't given resources to start with here. It is up to you to research and find what you need**
+
 **All exercises below should be done with Python 3**
 
 ## Goals:
